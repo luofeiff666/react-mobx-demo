@@ -1,0 +1,17 @@
+.done {
+	text-decoration: line-through;
+	color: #888;
+}
+
+li {
+	line-height: 48px;
+}
+.text-content {
+	width: 200px;
+	cursor: pointer;
+}
+.delete {
+	margin-right: 30px;
+	color: red;
+	cursor: pointer;
+}
